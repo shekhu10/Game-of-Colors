@@ -1,0 +1,47 @@
+body{
+background-color: #232323;
+margin: 0;
+font-family:"Avenir";
+}
+
+.square{
+	width:30%;
+	background-color: #232323 ;
+	padding-bottom: 30%;
+	float:left;
+	margin:1.66%;
+	border-radius: 15%;
+	transition: background-color 2.0s;
+}
+#container{
+	margin:0 auto;
+	max-width: 600px;
+}
+h1{
+	color:white;
+	text-align:center;
+	background-color: steelblue;
+	margin:0;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+span{
+	color:white;
+	font-size: 150%;
+}
+#line{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+
+}
+
+#message{
+	color: black;
+
+}
+.selected{
+	background-color: blue;
+}
+button{
+border:none;}
